@@ -6,6 +6,7 @@
 #include <string>
 #include <regex>
 #include <vector>
+#include <limits>
 #include "sndfile.h"
 
 using namespace std;
